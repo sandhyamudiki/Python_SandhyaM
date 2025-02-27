@@ -1,0 +1,6 @@
+db_name="neondb"
+db_user="neondb_owner"
+db_password="npg_hKLaOPy9vs2l"
+db_host="ep-blue-sky-a4haw4w1-pooler.us-east-1.aws.neon.tech"
+db_port="5432"
+db_mongo='mongodb+srv://finbloomadmin:cc1NLNA2M9ViUjQZ@cluster0.fwjwg.mongodb.net/?retryWrites=true&w=majority&appname=Cluster0'
