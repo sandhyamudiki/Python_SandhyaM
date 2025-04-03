@@ -1,0 +1,4 @@
+Host aws_test_ec2
+    HostName  ec2-3-143-1-124.us-east-2.compute.amazonaws.com
+    User sandtest
+    IdentifyFile "C:\Users\sandh\Downloads\testec2.pem"
